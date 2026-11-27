@@ -1,0 +1,42 @@
+[
+{"day": 1, "fecha": "2026-12-01", "hook": "¿Te prestan $100 en una app?", "slides": [
+{"type":"cover","variant":"orange","tag":"Lo que no te dicen","pre":"Te prestan $100 por 15 días y devuelves $115.","lead":"Eso equivale a","big":"2.899 %","post":"de interés al año."},
+{"type":"statement","bg":"ink","a":"$15 parece poco.","b":"Pero es el 15 % en solo 15 días."},
+{"type":"rows","title":"Los mismos $100, 15 días:","rows":[["App de préstamos","$15",true],["Tarjeta (2,5 % mensual)","$1,23",false]],"vsize":104},
+{"type":"cards","title":"Si lo renuevas 4 veces:","cards":[["App, 2 meses","$60","",true],["Tarjeta, 2 meses","~$5","",false]],"legend":"Costo de tener $100 prestados"},
+{"type":"bigstat","bg":"ink","pre":"La app te cobra","big":"12 veces","post":"más que la tarjeta."},
+{"type":"steps","title":"Antes de pedir en una app:","steps":["Mira cuánto devuelves, no la cuota.","Si tienes tarjeta, sale más barato.","Nunca la renueves: ahí crece."],"tsize":48},
+{"type":"assumptions","text":"Préstamo de $100 a 15 días con cobro total de $15 (interés y cargos). Anualizado: (1,15)^(365/15) − 1 = 2.899 %.\n\nTarjeta al 2,5 % mensual por 15 días: $1,23. Cifras ilustrativas; cada app cobra distinto."},
+{"type":"cta","bg":"orange","a":"Mándaselo a quien pide prestado en apps.","b":"¿Cuánto te cobraron a ti? Responde con el número."}
+]},
+{"day": 2, "fecha": "2026-12-02", "hook": "Pagas apps que ya no usas", "slides": [
+{"type":"cover","variant":"ink","tag":"Suscripciones","pre":"3 suscripciones que olvidaste: $10, $8 y $13 al mes.","big":"$372","post":"al año, sin usarlas."},
+{"type":"statement","bg":"ink","a":"Nadie cancela lo que no ve.","b":"Por eso se cobran solas, mes tras mes."},
+{"type":"rows","title":"3 suscripciones olvidadas:","rows":[["Al mes","$31",false],["Al año","$372",false],["En 3 años","$1.116",true]],"vsize":104},
+{"type":"cards","title":"Lo que pagas en 3 años:","cards":[["Suscripciones olvidadas","$1.116","",true],["Si las cancelas hoy","$0","",false]],"legend":"Cifras ilustrativas"},
+{"type":"bigstat","bg":"ink","pre":"Cancelarlas toma","big":"10 min","post":"y te ahorra $372 al año."},
+{"type":"steps","title":"Haz esto hoy:","steps":["Busca \"suscripción\" en tu extracto.","Cancela lo que no usaste este mes.","Deja una alarma para revisar cada 3 meses."],"tsize":48},
+{"type":"assumptions","text":"Tres suscripciones de $10, $8 y $13 al mes: $31 al mes, $372 al año y $1.116 en 3 años.\n\nPrecios ilustrativos; revisa los cobros reales en tu extracto."},
+{"type":"cta","bg":"orange","a":"Mándaselo a quien tiene mil apps pagas.","b":"¿Cuántas suscripciones tienes? Responde con el número."}
+]},
+{"day": 3, "fecha": "2026-12-03", "hook": "Tu crédito trae un seguro", "slides": [
+{"type":"cover","variant":"bone","tag":"Lo que no te dicen","pre":"Crédito de $5.000 con un seguro voluntario de $12 al mes.","lead":"En 3 años pagas de más","big":"$432","post":"y casi nadie lo nota."},
+{"type":"statement","bg":"ink","a":"El seguro viene incluido en la cuota.","b":"Pero muchos son voluntarios: puedes decir que no."},
+{"type":"rows","title":"Crédito de $5.000 a 36 meses:","rows":[["Cuota sin seguro","$190",false],["Cuota con seguro","$202",false],["Seguro en 3 años","$432",true]],"vsize":96},
+{"type":"cards","title":"Tasa real que pagas:","cards":[["Sin seguro","23,9 %","",false],["Con seguro","29,6 %","",true]],"legend":"Efectiva anual"},
+{"type":"bigstat","bg":"ink","pre":"El seguro sube tu tasa","big":"+5,7","post":"puntos al año."},
+{"type":"steps","title":"Antes de firmar:","steps":["Pide la cuota sin seguros voluntarios.","Pregunta cuál es obligatorio y cuál no.","Compara con un seguro que ya tengas."],"tsize":48},
+{"type":"assumptions","text":"Crédito de $5.000 a 36 meses al 1,8 % mensual: cuota de $190. Seguro voluntario de $12 al mes: cuota de $202.\n\nTasa equivalente con seguro: 2,18 % mensual (29,6 % efectivo anual). Cifras ilustrativas."},
+{"type":"cta","bg":"orange","a":"Mándaselo a quien va a firmar un crédito.","b":"¿Te ofrecieron seguro? Responde sí o no."}
+]},
+{"day": 4, "fecha": "2026-12-04", "hook": "¿Mandas plata a tu casa?", "slides": [
+{"type":"cover","variant":"split","pre":"Envías $200 al mes a tu familia.","big":"$168","post":"al año se quedan en comisiones."},
+{"type":"statement","bg":"ink","a":"No es solo la comisión.","b":"La tasa de cambio también te cobra, escondida."},
+{"type":"rows","title":"Enviar $200 por agencia:","rows":[["Comisión","$8",false],["Tasa de cambio (3 %)","$6",false],["Costo por envío","$14",true]],"vsize":104},
+{"type":"cards","title":"Costo al año:","cards":[["Agencia","$168","",true],["App de envíos","$36","",false]],"legend":"12 envíos de $200"},
+{"type":"bigstat","bg":"ink","pre":"Cambiar de servicio te ahorra","big":"$132","post":"al año."},
+{"type":"steps","title":"Antes de enviar:","steps":["Compara cuánto recibe tu familia, no la comisión.","Mira la tasa de cambio contra la oficial.","Envía una vez al mes, no varias."],"tsize":46},
+{"type":"assumptions","text":"Envío de $200: agencia con comisión de $8 y 3 % en la tasa de cambio ($14); app con $2 y 0,5 % ($3). 12 envíos al año: $168 vs $36.\n\nTarifas ilustrativas; compara las reales antes de enviar."},
+{"type":"cta","bg":"orange","a":"Mándaselo a quien manda plata a su casa.","b":"¿Cuánto te cobran por enviar? Responde con el número."}
+]}
+]

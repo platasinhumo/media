@@ -1,0 +1,32 @@
+[
+{"day": 28, "fecha": "2026-11-28", "hook": "¿Carro nuevo o de 3 años?", "slides": [
+{"type":"cover","variant":"bone","tag":"Comparación","pre":"Mismo modelo, financiado a 5 años.","lead":"Estrenar te cuesta","big":"$6.981","post":"más que el usado."},
+{"type":"statement","bg":"ink","a":"El carro nuevo pierde valor más rápido.","b":"Y pagas intereses sobre un precio más alto."},
+{"type":"rows","title":"Carro nuevo de $15.000, en 5 años:","rows":[["Intereses","$7.271",false],["Valor que pierde","$8.736",false],["Costo total","$16.007",true]],"vsize":96},
+{"type":"cards","title":"Mismo carro, 5 años:","cards":[["Nuevo: $15.000","$16.007","",true],["Usado de 3 años: $8.670","$9.026","",false]],"legend":"Costo = intereses + valor perdido"},
+{"type":"bigstat","bg":"ink","pre":"Estrenar te cuesta","big":"$6.981","post":"más en 5 años."},
+{"type":"steps","title":"Antes de comprar carro:","steps":["Cotiza el mismo modelo usado.","Compara el costo total, no la cuota.","Financia lo menos posible."],"tsize":48},
+{"type":"assumptions","text":"Crédito del 100 % a 60 meses al 1,4 % mensual: cuota de $371 (nuevo) y $215 (usado).\n\nDepreciación supuesta: 20 % el primer año y 15 % los siguientes. Cifras ilustrativas."},
+{"type":"cta","bg":"orange","a":"Mándaselo a quien está por estrenar carro.","b":"¿Nuevo o usado? Responde con una palabra."}
+]},
+{"day": 29, "fecha": "2026-11-29", "hook": "Te cobran por sacar tu plata", "slides": [
+{"type":"cover","variant":"split","pre":"Cajero de otro banco, 4 veces al mes.","big":"$96","post":"al año, por sacar tu propia plata."},
+{"type":"statement","bg":"ink","a":"$2 por retiro parece nada.","b":"Son $8 al mes, todos los meses."},
+{"type":"rows","title":"Cobro de $2 por retiro:","rows":[["Al mes (4 retiros)","$8",false],["Al año","$96",false],["En 10 años","$960",true]],"vsize":104},
+{"type":"cards","title":"Esos $8 al mes, invertidos:","cards":[["En 10 años","$1.441","",false],["En 20 años","$4.552","",true]],"legend":"Al 8 % anual, ilustrativo"},
+{"type":"bigstat","bg":"ink","pre":"En 20 años, ese cobro vale","big":"$4.552","post":"si lo hubieras invertido."},
+{"type":"steps","title":"Para no pagar por tu plata:","steps":["Usa cajeros de tu banco o aliados.","Saca más en un solo retiro.","Paga con débito o transferencia."],"tsize":48},
+{"type":"assumptions","text":"$2 por retiro, 4 retiros al mes: $8 al mes y $96 al año.\n\nInvertidos al 8 % efectivo anual: $1.441 en 10 años y $4.552 en 20. Tarifas y rentabilidad ilustrativas, no garantizadas."},
+{"type":"cta","bg":"orange","a":"Mándaselo a quien saca plata en cualquier cajero.","b":"¿Cuánto te cobra tu banco? Responde con el número."}
+]},
+{"day": 30, "fecha": "2026-11-30", "hook": "Pagas y la deuda crece", "slides": [
+{"type":"cover","variant":"ink","pre":"Debes $2.000, pagas el mínimo y sigues comprando $100 al mes.","big":"$4.040","post":"debes 2 años después."},
+{"type":"statement","bg":"ink","a":"Pagaste $2.159 en 2 años.","b":"$1.799 fueron solo intereses."},
+{"type":"rows","title":"Deuda de $2.000, 24 meses:","rows":[["Lo que pagaste","$2.159",false],["Intereses","$1.799",false],["Deuda final","$4.040",true]],"vsize":96},
+{"type":"cards","title":"Después de 2 años debes:","cards":[["Comprando $100 al mes","$4.040","",true],["Sin compras nuevas","$1.773","",false]],"legend":"Pagando solo el mínimo"},
+{"type":"bigstat","bg":"ink","pre":"Mínimo + compras nuevas","big":"x2","post":"tu deuda en 2 años."},
+{"type":"steps","title":"Para salir de verdad:","steps":["Deja de comprar con esa tarjeta.","Paga más que el mínimo.","Ataca primero la tasa más alta."],"tsize":48},
+{"type":"assumptions","text":"Deuda de $2.000 al 2,5 % mensual. Pago mínimo: 3 % del saldo o $40, lo mayor. Compras nuevas de $100 al mes durante 24 meses.\n\nTasa ilustrativa: revisa tu extracto."},
+{"type":"cta","bg":"orange","a":"Mándaselo a quien paga y sigue comprando.","b":"¿Cuánto pagas de mínimo? Responde con el número."}
+]}
+]
