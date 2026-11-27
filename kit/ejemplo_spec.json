@@ -1,0 +1,12 @@
+[
+{"day": 10, "fecha": "2026-11-03", "hook": "¿Sacas efectivo con la tarjeta?", "slides": [
+{"type":"cover","variant":"bone","tag":"Lo que el banco no te dice","pre":"Sacas $200 en efectivo con la tarjeta.","lead":"En un solo mes te cuesta","big":"$16","post":"Es el crédito más caro que existe. Y nadie te lo dice."},
+{"type":"statement","bg":"ink","a":"El avance en efectivo no tiene periodo de gracia.","b":"Cobra interés desde el día uno. Más una comisión por retirar."},
+{"type":"rows","title":"Avance de $200 con la tarjeta:","rows":[["Comisión por retiro (5%)","$10",false],["Interés del primer mes (3%)","$6",false],["Costo en 30 días","$16",true],["Tasa efectiva del mes","8%",true]],"vsize":92},
+{"type":"cards","title":"Los mismos $200, un mes:","cards":[["Compra con tarjeta, pagas a tiempo","$0","de costo",false],["Avance en efectivo","$16","de costo",true]],"lsize":72,"legend":"Costo del dinero en 30 días"},
+{"type":"bigstat","bg":"ink","pre":"Un 8% mensual equivale a más de","big":"150%","post":"al año. Ningún crédito formal cobra eso."},
+{"type":"steps","title":"Antes de sacar efectivo con la tarjeta:","steps":["Pregunta si lo que vas a pagar acepta tarjeta: casi siempre sí.","Si necesitas efectivo, un crédito de libre inversión suele costar la mitad o menos.","Si ya hiciste el avance, págalo primero que cualquier otra deuda."],"box":"El avance es para una urgencia real de un día, no para llegar a fin de mes."},
+{"type":"assumptions","text":"Avance de $200. Comisión del 5% ($10) e interés del 3% mensual ($6) cobrado desde el día del retiro: $16 en 30 días = 8% del monto. Anualizado: (1,08)^12 − 1 = 152%.\n\nComisiones y tasas cambian por banco y país; revisa tu contrato."},
+{"type":"cta","bg":"orange","a":"Guárdalo para la próxima vez que estés frente al cajero.","b":"Compártelo con quien saca \"un poquito\" de la tarjeta cada mes."}
+]}
+]
