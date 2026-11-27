@@ -11,6 +11,7 @@
 Martes y viernes, 1:40 p. m. hora Bogotá, en la nube (tarea programada de Claude Code con este repo conectado).
 
 ## Registro (lo más reciente arriba)
+- 27-nov (nube, viernes): primera sesión con el repo conectado. Verificado: 24 al 27-nov `sent` en los 3 canales, sin errores. Horizonte ya cubierto hasta el 4-dic (7 posts programados por canal, durationMs 31700); las 7 URL de `v/` responden 200. No se produjo ni programó nada nuevo; no había mp4 viejos que borrar.
 - 27-nov (chat): la sesión en la nube de hoy no produjo nada porque no tenía acceso al repo privado. Se migró todo a este repo público y se creó una tarea nueva con el repo conectado. Videos del 28 al 30-nov rehechos a 31,7 s y cambiados en Buffer; del 1 al 4-dic producidos y programados (préstamo en app, suscripciones, seguro del crédito, remesas).
 - 24-nov (chat): migración a la nube. Revisión de 95 posts (METRICAS.md), decisión de arquitectura GitHub + Buffer (DECISIONES.md), manual (OPERACION.md), experimentos (EXPERIMENTOS.md). Lo programado del 25 al 27-nov quedó con videos en Drive (última vez que se usa Drive).
 - 13 al 24-nov: Buffer conectado; TikTok, IG y YouTube por API.
